@@ -18,7 +18,6 @@
 
 #define DHTTYPE DHT11
 
-
 DHT dht(DHTPIN, DHTTYPE);
 
 /**
